@@ -4,20 +4,64 @@ import numpy as np
 import os
 import json
 
-
-async def charger_json():
+## Initialiseurs
+async def chargerJson():
+    '''
+    Entrée : 
+    Sortie : liste contenant les JSONs chargés
+    '''
     lesJsons = ["./SRC/JSON/RL.json", "./SRC/JSON/Corteiz.json", "./SRC/JSON/H&M.json"]
     retourJson = []
-    try:
-        for x in range(len(lesJsons)):
-            with open(lesJsons[x], "r", encoding="utf8") as fichier:
+    for path in lesJsons:
+        try:
+            with open(path, "r", encoding="utf8") as fichier:
                 retourJson.append(json.load(fichier))
-    except FileNotFoundError:
-        print("")
-    return retourJson
+        except FileNotFoundError:
+            print(f"Fichier non trouvé : {path}")
+    return retourJson 
+
+async def chargerPrix(listeJson):
+    '''
+    Entrée : liste de JSONs
+    Sortie : liste de listes contenant les prix de chaque JSON
+    '''
+    prix_par_json = [] 
+
+    for json_data in listeJson:
+        prix = []
+        if "items" in json_data:
+            for item in json_data["items"]:
+                prix.append(float(item["price"]["amount"]))
+        prix_par_json.append(prix) 
+
+    return prix_par_json
+
+async def chargerFavoris(listeJson):
+    '''
+    Entrée : liste de JSONs
+    Sortie : liste de listes contenant les favorite_count de chaque JSON
+    '''
+    favoris_par_json = []  
+
+    for json_data in listeJson:
+        favoris = []
+        if "items" in json_data:
+            for item in json_data["items"]:
+                if "favorite_count" in item:
+                    favoris.append(int(item["favorite_count"]))
+                else:
+                    favoris.append(0)
+        favoris_par_json.append(favoris)  
+
+    return favoris_par_json
+
+## Statistiques
 
 async def moyenne (Liste) :
-    return np.mean(Liste)
+    moyenne = []
+    for x in range(len(Liste)):
+        moyenne.append(np.mean(Liste[x]))
+    return moyenne
 
 async def mediane (liste) :
     return np.median(liste)
@@ -45,36 +89,11 @@ async def frequences_cumulees (liste) :
 
 
 
+async def main():
+    jsons = await chargerJson()  
+    prix_liste = await chargerPrix(jsons)  
+    favoris_liste = await chargerFavoris(jsons)  
 
-print(asyncio.run(charger_json()))
+    print(await moyenne(prix_liste))
 
-def plot_with_custom_theme(theme_path, data):
-    """
-    Affiche un graphique avec Matplotlib en appliquant un thème personnalisé.
-    
-    :param theme_path: Chemin vers le fichier du thème Matplotlib (.mplstyle)
-    :param data: Données sous forme de dictionnaire { 'x': [...], 'y': [...] }
-    """
-    if not os.path.exists(theme_path):
-        print(f"Le fichier de thème {theme_path} n'existe pas.")
-        return
-
-    plt.style.use(theme_path)
-    
-    fig, ax = plt.subplots()
-    ax.plot(data['x'], data['y'], label='Données')
-    
-    ax.set_xlabel('Axe X')
-    ax.set_ylabel('Axe Y')
-    ax.set_title('Graphique avec Thème Personnalisé')
-    ax.legend()
-
-    plt.show()
-
-data_example = {
-    'x': [1, 2, 3, 4, 5],
-    'y': [10, 20, 25, 30, 40]
-}
-
-theme_file = "./SRC/rose-pine-matplotlib/themes/rose-pine.mplstyle"
-# plot_with_custom_theme(theme_file, data_example)
+asyncio.run(main())
