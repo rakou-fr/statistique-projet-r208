@@ -1,0 +1,1023 @@
+{
+  "items": [
+    {
+      "id": 5880359057,
+      "title": "Pull mohair knit corteiz rose taille M",
+      "price": {
+        "amount": "120.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "Corteiz",
+      "path": "/items/5880359057-pull-mohair-knit-corteiz-rose-taille-m",
+      "user": {
+        "id": 250840711,
+        "login": "zafir.shop",
+        "profile_url": "https://www.vinted.fr/member/250840711-zafirshop",
+        "photo": {
+          "id": 226069151,
+          "width": 514,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/03_01790_SqqqNNwuwX3vZkKwmpekKUob/f800/1736788880.jpeg?s=c7c2a197a1b584bff9cffa9e6d47aa542777bca7",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/03_01790_SqqqNNwuwX3vZkKwmpekKUob/310x310/1736788880.jpeg?s=d0e46c72277d45f006c160ab48b2614f15d2f680",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/03_01790_SqqqNNwuwX3vZkKwmpekKUob/150x150/1736788880.jpeg?s=c5534251860737a05b107ce8d5b9a26ecc8414cd",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/03_01790_SqqqNNwuwX3vZkKwmpekKUob/100x100/1736788880.jpeg?s=dc4e783ac2f3a207ab03b9eca650814e616b1945",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/03_01790_SqqqNNwuwX3vZkKwmpekKUob/50x50/1736788880.jpeg?s=51b63786ee9a423393755f5a520289a0e3ccfec3",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/03_01790_SqqqNNwuwX3vZkKwmpekKUob/20x20/1736788880.jpeg?s=456786c6cc117d2a4ab19b9b2ff20040b0af3610",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "03_01790_SqqqNNwuwX3vZkKwmpekKUob",
+            "timestamp": 1736788880,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/03_01790_SqqqNNwuwX3vZkKwmpekKUob/1736788880.jpeg?s=a60ba2b1e7400d843ef8aeebcdecef624de83ff3",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5880359057-pull-mohair-knit-corteiz-rose-taille-m",
+      "promoted": false,
+      "photo": {
+        "id": 23835735640,
+        "image_no": 1,
+        "width": 800,
+        "height": 713,
+        "dominant_color": "#DDB9BB",
+        "dominant_color_opaque": "#F5EAEB",
+        "url": "https://images1.vinted.net/t/04_01b76_7edB51BTxNuAyrMdSEMSzckz/f800/1740569250.jpeg?s=9adf4504d933da4e40f72528a50d96f9b1836ef5",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_01b76_7edB51BTxNuAyrMdSEMSzckz/70x100/1740569250.jpeg?s=831fd5c7fe7cc8a5c99b0b11eed8c5b905252b57",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_01b76_7edB51BTxNuAyrMdSEMSzckz/150x210/1740569250.jpeg?s=d353aea7e9839eb90d51c5b98bd7c2fc05e08a12",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_01b76_7edB51BTxNuAyrMdSEMSzckz/310x430/1740569250.jpeg?s=3c1e3aacc50a031a84818f0d54e95954eebfef7f",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_01b76_7edB51BTxNuAyrMdSEMSzckz/f800/1740569250.jpeg?s=9adf4504d933da4e40f72528a50d96f9b1836ef5",
+            "width": 428,
+            "height": 381,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_01b76_7edB51BTxNuAyrMdSEMSzckz/f800/1740569250.jpeg?s=9adf4504d933da4e40f72528a50d96f9b1836ef5",
+            "width": 624,
+            "height": 556,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_01b76_7edB51BTxNuAyrMdSEMSzckz/f800/1740569250.jpeg?s=9adf4504d933da4e40f72528a50d96f9b1836ef5",
+            "width": 364,
+            "height": 324,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_01b76_7edB51BTxNuAyrMdSEMSzckz",
+          "timestamp": 1740569250,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_01b76_7edB51BTxNuAyrMdSEMSzckz/1740569250.jpeg?s=c2a509846aa243f2889d42228eaf2775c806bb61",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 25,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "6.7",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "126.7",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "M",
+      "content_source": "search",
+      "status": "New with tags",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "Corteiz",
+        "second_line": "M",
+        "accessibility_label": "Pull mohair knit corteiz rose taille M, brand: Corteiz, condition: New with tags, size: M, 120.00 €, 126.70 € includes Buyer Protection"
+      },
+      "search_tracking_params": {
+        "score": -0.00264739035628736,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5644034475,
+      "title": "pull corteiz",
+      "price": {
+        "amount": "110.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "Corteiz",
+      "path": "/items/5644034475-pull-corteiz",
+      "user": {
+        "id": 218227990,
+        "login": "erellcas",
+        "profile_url": "https://www.vinted.fr/member/218227990-erellcas",
+        "photo": {
+          "id": 225928025,
+          "width": 450,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/04_025d9_PoHVmGQVFkycwhjXhHEb2zp8/f800/1736706100.jpeg?s=4bcfa54634a9b8f42960e3a6bebc36d995a31ea0",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/04_025d9_PoHVmGQVFkycwhjXhHEb2zp8/310x310/1736706100.jpeg?s=1c409799a629caf9dbea441d8fd4858858262451",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/04_025d9_PoHVmGQVFkycwhjXhHEb2zp8/150x150/1736706100.jpeg?s=373d6350e79ec06aec69f3c56984025e286c8562",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/04_025d9_PoHVmGQVFkycwhjXhHEb2zp8/100x100/1736706100.jpeg?s=68635085c4eb0dbf6165d5c3f5481800dd195c6c",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/04_025d9_PoHVmGQVFkycwhjXhHEb2zp8/50x50/1736706100.jpeg?s=f16a5efca4e5652dccd385ff909db759411349d6",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/04_025d9_PoHVmGQVFkycwhjXhHEb2zp8/20x20/1736706100.jpeg?s=b14cd8b51d18212d1317ceabad9062ad1eef343d",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "04_025d9_PoHVmGQVFkycwhjXhHEb2zp8",
+            "timestamp": 1736706100,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/04_025d9_PoHVmGQVFkycwhjXhHEb2zp8/1736706100.jpeg?s=b711fef7483b8dbe0dc776d1826ab0c19d87ef66",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5644034475-pull-corteiz",
+      "promoted": false,
+      "photo": {
+        "id": 22859534923,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#A99B8A",
+        "dominant_color_opaque": "#E5E1DC",
+        "url": "https://images1.vinted.net/t/04_01135_fGBe3HBi3g6kunXLo1NGXgjQ/f800/1736706888.jpeg?s=33a48f9b22c6b42b7d9f03af33537c0021600610",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_01135_fGBe3HBi3g6kunXLo1NGXgjQ/70x100/1736706888.jpeg?s=5101c7c6a565aef3c90f56fec685ccb3d481a69c",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_01135_fGBe3HBi3g6kunXLo1NGXgjQ/150x210/1736706888.jpeg?s=0b006b4affeac08c4fa0e252fa75f7b592be9783",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_01135_fGBe3HBi3g6kunXLo1NGXgjQ/310x430/1736706888.jpeg?s=a6815971b46a478e8a17c52e299d9551c254984e",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_01135_fGBe3HBi3g6kunXLo1NGXgjQ/f800/1736706888.jpeg?s=33a48f9b22c6b42b7d9f03af33537c0021600610",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_01135_fGBe3HBi3g6kunXLo1NGXgjQ/f800/1736706888.jpeg?s=33a48f9b22c6b42b7d9f03af33537c0021600610",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_01135_fGBe3HBi3g6kunXLo1NGXgjQ/f800/1736706888.jpeg?s=33a48f9b22c6b42b7d9f03af33537c0021600610",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_01135_fGBe3HBi3g6kunXLo1NGXgjQ",
+          "timestamp": 1736706888,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_01135_fGBe3HBi3g6kunXLo1NGXgjQ/1736706888.jpeg?s=37c1e8e351498b135a5b549f1c0e318326fdc336",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 8,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "6.2",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "116.2",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "S / 36 / 8",
+      "content_source": "search",
+      "status": "New without tags",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "Corteiz",
+        "second_line": "S / 36 / 8",
+        "accessibility_label": "pull corteiz, brand: Corteiz, condition: New without tags, size: S / 36 / 8, 110.00 €, 116.20 € includes Buyer Protection"
+      },
+      "search_tracking_params": {
+        "score": -0.006635623052716255,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5730396558,
+      "title": "Pull Corteiz rose en mohair",
+      "price": {
+        "amount": "120.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "Corteiz",
+      "path": "/items/5730396558-pull-corteiz-rose-en-mohair",
+      "user": {
+        "id": 250840711,
+        "login": "zafir.shop",
+        "profile_url": "https://www.vinted.fr/member/250840711-zafirshop",
+        "photo": {
+          "id": 226069151,
+          "width": 514,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/03_01790_SqqqNNwuwX3vZkKwmpekKUob/f800/1736788880.jpeg?s=c7c2a197a1b584bff9cffa9e6d47aa542777bca7",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/03_01790_SqqqNNwuwX3vZkKwmpekKUob/310x310/1736788880.jpeg?s=d0e46c72277d45f006c160ab48b2614f15d2f680",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/03_01790_SqqqNNwuwX3vZkKwmpekKUob/150x150/1736788880.jpeg?s=c5534251860737a05b107ce8d5b9a26ecc8414cd",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/03_01790_SqqqNNwuwX3vZkKwmpekKUob/100x100/1736788880.jpeg?s=dc4e783ac2f3a207ab03b9eca650814e616b1945",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/03_01790_SqqqNNwuwX3vZkKwmpekKUob/50x50/1736788880.jpeg?s=51b63786ee9a423393755f5a520289a0e3ccfec3",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/03_01790_SqqqNNwuwX3vZkKwmpekKUob/20x20/1736788880.jpeg?s=456786c6cc117d2a4ab19b9b2ff20040b0af3610",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "03_01790_SqqqNNwuwX3vZkKwmpekKUob",
+            "timestamp": 1736788880,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/03_01790_SqqqNNwuwX3vZkKwmpekKUob/1736788880.jpeg?s=a60ba2b1e7400d843ef8aeebcdecef624de83ff3",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5730396558-pull-corteiz-rose-en-mohair",
+      "promoted": false,
+      "photo": {
+        "id": 23213608770,
+        "image_no": 1,
+        "width": 800,
+        "height": 685,
+        "dominant_color": "#CF949A",
+        "dominant_color_opaque": "#F1DFE1",
+        "url": "https://images1.vinted.net/t/04_01d59_raS33kiJ87QZbN9DeG13i4aj/f800/1738150925.jpeg?s=3025443ad95db1a39c9178b7314d4a1c1a1ab0af",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_01d59_raS33kiJ87QZbN9DeG13i4aj/70x100/1738150925.jpeg?s=b9e8a5d72fa028e611cbf6ac46197d2b646ba3e6",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_01d59_raS33kiJ87QZbN9DeG13i4aj/150x210/1738150925.jpeg?s=aa15f94182c2edb1d702ab401d26dfce02033d99",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_01d59_raS33kiJ87QZbN9DeG13i4aj/310x430/1738150925.jpeg?s=d5f05593fe118d80848d40b06218fc276f56c29a",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_01d59_raS33kiJ87QZbN9DeG13i4aj/f800/1738150925.jpeg?s=3025443ad95db1a39c9178b7314d4a1c1a1ab0af",
+            "width": 428,
+            "height": 366,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_01d59_raS33kiJ87QZbN9DeG13i4aj/f800/1738150925.jpeg?s=3025443ad95db1a39c9178b7314d4a1c1a1ab0af",
+            "width": 624,
+            "height": 534,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_01d59_raS33kiJ87QZbN9DeG13i4aj/f800/1738150925.jpeg?s=3025443ad95db1a39c9178b7314d4a1c1a1ab0af",
+            "width": 364,
+            "height": 311,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_01d59_raS33kiJ87QZbN9DeG13i4aj",
+          "timestamp": 1738150925,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_01d59_raS33kiJ87QZbN9DeG13i4aj/1738150925.jpeg?s=1d60fa8488c12f31a67922e9911fe98b2c8e3a65",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 44,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "6.7",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "126.7",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "M",
+      "content_source": "search",
+      "status": "New with tags",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "Corteiz",
+        "second_line": "M",
+        "accessibility_label": "Pull Corteiz rose en mohair, brand: Corteiz, condition: New with tags, size: M, 120.00 €, 126.70 € includes Buyer Protection"
+      },
+      "search_tracking_params": {
+        "score": -0.004076161421835423,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5588539933,
+      "title": "Corteiz - Beige pull-over",
+      "price": {
+        "amount": "111.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "Corteiz",
+      "path": "/items/5588539933-corteiz-beige-pull-over",
+      "user": {
+        "id": 214509391,
+        "login": "pyr2xliving",
+        "profile_url": "https://www.vinted.fr/member/214509391-pyr2xliving",
+        "photo": {
+          "id": 202372412,
+          "width": 428,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_01864_XVS3TgUUKoFjRg97DZFz92c1/f800/1722608306.jpeg?s=878b312b3a022e8a76a68be1fd9d5efb016c9190",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_01864_XVS3TgUUKoFjRg97DZFz92c1/310x310/1722608306.jpeg?s=855df549e4927a60cc0fb39e9b52bba23d479203",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_01864_XVS3TgUUKoFjRg97DZFz92c1/150x150/1722608306.jpeg?s=cbf85c5325150f431ff553adea1d19df5587c22c",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_01864_XVS3TgUUKoFjRg97DZFz92c1/100x100/1722608306.jpeg?s=7713a51fc416750eb3034c053bc696924e04dc5f",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_01864_XVS3TgUUKoFjRg97DZFz92c1/50x50/1722608306.jpeg?s=2a26c7b29229c0d311688635c0a607b8b2d76568",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_01864_XVS3TgUUKoFjRg97DZFz92c1/20x20/1722608306.jpeg?s=a0d41c31c60ef17776dfd130be782cd14fb400dd",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_01864_XVS3TgUUKoFjRg97DZFz92c1",
+            "timestamp": 1722608306,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_01864_XVS3TgUUKoFjRg97DZFz92c1/1722608306.jpeg?s=64e75ca86fb80efd751d6066ef0fd4fc1297fb04",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5588539933-corteiz-beige-pull-over",
+      "promoted": false,
+      "photo": {
+        "id": 22635196796,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#AEA086",
+        "dominant_color_opaque": "#E7E3DB",
+        "url": "https://images1.vinted.net/t/03_0130f_Hn3MTxJD1bfRvmHhH1JdJvsq/f800/1735825516.jpeg?s=95b597f4ded6bef6b021e2861d1d7bb41cd5fe32",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/03_0130f_Hn3MTxJD1bfRvmHhH1JdJvsq/70x100/1735825516.jpeg?s=ebe56f61d73dc85a0a3e7ee24c7944d342a76174",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/03_0130f_Hn3MTxJD1bfRvmHhH1JdJvsq/150x210/1735825516.jpeg?s=d8670d9103d5dd64635711c4762f2b9a7533093f",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/03_0130f_Hn3MTxJD1bfRvmHhH1JdJvsq/310x430/1735825516.jpeg?s=001533fc83547dfd7b66f646fa95c14bd01a9f50",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/03_0130f_Hn3MTxJD1bfRvmHhH1JdJvsq/f800/1735825516.jpeg?s=95b597f4ded6bef6b021e2861d1d7bb41cd5fe32",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/03_0130f_Hn3MTxJD1bfRvmHhH1JdJvsq/f800/1735825516.jpeg?s=95b597f4ded6bef6b021e2861d1d7bb41cd5fe32",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/03_0130f_Hn3MTxJD1bfRvmHhH1JdJvsq/f800/1735825516.jpeg?s=95b597f4ded6bef6b021e2861d1d7bb41cd5fe32",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "03_0130f_Hn3MTxJD1bfRvmHhH1JdJvsq",
+          "timestamp": 1735825516,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/03_0130f_Hn3MTxJD1bfRvmHhH1JdJvsq/1735825516.jpeg?s=e8351a868ba2dc0d2d795e045fcdb2de56bc82c7",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 1,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "6.25",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "117.25",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "S",
+      "content_source": "search",
+      "status": "New without tags",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "Corteiz",
+        "second_line": "S",
+        "accessibility_label": "Corteiz - Beige pull-over, brand: Corteiz, condition: New without tags, size: S, 111.00 €, 117.25 € includes Buyer Protection"
+      },
+      "search_tracking_params": {
+        "score": -0.00934651866555214,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5693259407,
+      "title": "Corteiz Alcatraz logo tee black",
+      "price": {
+        "amount": "50.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "Corteiz",
+      "path": "/items/5693259407-corteiz-alcatraz-logo-tee-black",
+      "user": {
+        "id": 136705611,
+        "login": "b1gcheungus",
+        "profile_url": "https://www.vinted.fr/member/136705611-b1gcheungus",
+        "photo": {
+          "id": 133383216,
+          "width": 416,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/03_01c50_pbpcdBCoKguv55gL4vdYYZ9L/f800/1679147094.jpeg?s=2f9e9b634e5d639178921da736237fe707fc37cc",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/03_01c50_pbpcdBCoKguv55gL4vdYYZ9L/310x310/1679147094.jpeg?s=59edc68e0c920c13e95bf477aa5155144dd289cd",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/03_01c50_pbpcdBCoKguv55gL4vdYYZ9L/150x150/1679147094.jpeg?s=35a0750aee50366d8584234b2e8fbe9e9a9ebb55",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/03_01c50_pbpcdBCoKguv55gL4vdYYZ9L/100x100/1679147094.jpeg?s=6a21fa88660fa602a6bf6a68a3fdb245852f47df",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/03_01c50_pbpcdBCoKguv55gL4vdYYZ9L/50x50/1679147094.jpeg?s=75ab542d2c4b8883c2570106fc404541822ef459",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/03_01c50_pbpcdBCoKguv55gL4vdYYZ9L/20x20/1679147094.jpeg?s=219bab93b85e2d1b6cc0739d35a19b8f6e283ce1",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "03_01c50_pbpcdBCoKguv55gL4vdYYZ9L",
+            "timestamp": 1679147094,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/03_01c50_pbpcdBCoKguv55gL4vdYYZ9L/1679147094.jpeg?s=10bc82312e2f7017e585b1a1eb2c73ec396420d7",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5693259407-corteiz-alcatraz-logo-tee-black",
+      "promoted": false,
+      "photo": {
+        "id": 23060636645,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#1E3252",
+        "dominant_color_opaque": "#BCC2CB",
+        "url": "https://images1.vinted.net/t/03_018a5_4YxZTDfrW7jvJ4RtXnVwxZPi/f800/1737549500.jpeg?s=d912fa1ff0dfd5552db37f72e822049eca738ca7",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/03_018a5_4YxZTDfrW7jvJ4RtXnVwxZPi/70x100/1737549500.jpeg?s=d61c0cdd083664f41fc23d8a2d3c765f50bd808f",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/03_018a5_4YxZTDfrW7jvJ4RtXnVwxZPi/150x210/1737549500.jpeg?s=709fadf83483f9637b16acc3b7a96c783825e729",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/03_018a5_4YxZTDfrW7jvJ4RtXnVwxZPi/310x430/1737549500.jpeg?s=c1c1d01682e60ca580a66ae8ed3bb659c401c10f",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/03_018a5_4YxZTDfrW7jvJ4RtXnVwxZPi/f800/1737549500.jpeg?s=d912fa1ff0dfd5552db37f72e822049eca738ca7",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/03_018a5_4YxZTDfrW7jvJ4RtXnVwxZPi/f800/1737549500.jpeg?s=d912fa1ff0dfd5552db37f72e822049eca738ca7",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/03_018a5_4YxZTDfrW7jvJ4RtXnVwxZPi/f800/1737549500.jpeg?s=d912fa1ff0dfd5552db37f72e822049eca738ca7",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "03_018a5_4YxZTDfrW7jvJ4RtXnVwxZPi",
+          "timestamp": 1737549500,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/03_018a5_4YxZTDfrW7jvJ4RtXnVwxZPi/1737549500.jpeg?s=3c484e1cee29358e2cb89858b7b24052b32f9ff9",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 6,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "3.2",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "53.2",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "M",
+      "content_source": "search",
+      "status": "New with tags",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "Corteiz",
+        "second_line": "M",
+        "accessibility_label": "Corteiz Alcatraz logo tee black, brand: Corteiz, condition: New with tags, size: M, 50.00 €, 53.20 € includes Buyer Protection"
+      },
+      "search_tracking_params": {
+        "score": -0.02246005088090897,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 4552468132,
+      "title": "Corteiz blur logo tee shirt",
+      "price": {
+        "amount": "60.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "Corteiz",
+      "path": "/items/4552468132-corteiz-blur-logo-tee-shirt",
+      "user": {
+        "id": 136705611,
+        "login": "b1gcheungus",
+        "profile_url": "https://www.vinted.fr/member/136705611-b1gcheungus",
+        "photo": {
+          "id": 133383216,
+          "width": 416,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/03_01c50_pbpcdBCoKguv55gL4vdYYZ9L/f800/1679147094.jpeg?s=2f9e9b634e5d639178921da736237fe707fc37cc",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/03_01c50_pbpcdBCoKguv55gL4vdYYZ9L/310x310/1679147094.jpeg?s=59edc68e0c920c13e95bf477aa5155144dd289cd",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/03_01c50_pbpcdBCoKguv55gL4vdYYZ9L/150x150/1679147094.jpeg?s=35a0750aee50366d8584234b2e8fbe9e9a9ebb55",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/03_01c50_pbpcdBCoKguv55gL4vdYYZ9L/100x100/1679147094.jpeg?s=6a21fa88660fa602a6bf6a68a3fdb245852f47df",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/03_01c50_pbpcdBCoKguv55gL4vdYYZ9L/50x50/1679147094.jpeg?s=75ab542d2c4b8883c2570106fc404541822ef459",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/03_01c50_pbpcdBCoKguv55gL4vdYYZ9L/20x20/1679147094.jpeg?s=219bab93b85e2d1b6cc0739d35a19b8f6e283ce1",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "03_01c50_pbpcdBCoKguv55gL4vdYYZ9L",
+            "timestamp": 1679147094,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/03_01c50_pbpcdBCoKguv55gL4vdYYZ9L/1679147094.jpeg?s=10bc82312e2f7017e585b1a1eb2c73ec396420d7",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/4552468132-corteiz-blur-logo-tee-shirt",
+      "promoted": false,
+      "photo": {
+        "id": 18519747309,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#AEB0AE",
+        "dominant_color_opaque": "#E7E7E7",
+        "url": "https://images1.vinted.net/t/01_01480_BeEhfUBgREzhai3faDqaEUNi/f800/1716646396.jpeg?s=67abfe1c63c281a39c22b4dc4b79c841bf7eabc8",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/01_01480_BeEhfUBgREzhai3faDqaEUNi/70x100/1716646396.jpeg?s=dcf82da1777c5dc139fd78ed9efa46b6e8aaca6e",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/01_01480_BeEhfUBgREzhai3faDqaEUNi/150x210/1716646396.jpeg?s=ec92b4682378d240c951dea41591c9d15f3950e4",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/01_01480_BeEhfUBgREzhai3faDqaEUNi/310x430/1716646396.jpeg?s=9078db4d815e70609d7a57aa2a44e8c1c2ad50dc",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/01_01480_BeEhfUBgREzhai3faDqaEUNi/f800/1716646396.jpeg?s=67abfe1c63c281a39c22b4dc4b79c841bf7eabc8",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/01_01480_BeEhfUBgREzhai3faDqaEUNi/f800/1716646396.jpeg?s=67abfe1c63c281a39c22b4dc4b79c841bf7eabc8",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/01_01480_BeEhfUBgREzhai3faDqaEUNi/f800/1716646396.jpeg?s=67abfe1c63c281a39c22b4dc4b79c841bf7eabc8",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "01_01480_BeEhfUBgREzhai3faDqaEUNi",
+          "timestamp": 1716646396,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/01_01480_BeEhfUBgREzhai3faDqaEUNi/1716646396.jpeg?s=9c2a7c2bcb2ff653af10d98fdbd860fb3321a9fc",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 55,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "3.7",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "63.7",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "M",
+      "content_source": "search",
+      "status": "New with tags",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "Corteiz",
+        "second_line": "M",
+        "accessibility_label": "Corteiz blur logo tee shirt, brand: Corteiz, condition: New with tags, size: M, 60.00 €, 63.70 € includes Buyer Protection"
+      },
+      "search_tracking_params": {
+        "score": -0.02406336180865765,
+        "matched_queries": []
+      }
+    }
+  ],
+  "dominant_brand": {
+    "id": 3036449,
+    "title": "Corteiz",
+    "slug": "corteiz",
+    "favourite_count": 91168,
+    "pretty_favourite_count": "91.2K",
+    "item_count": 200806,
+    "pretty_item_count": "200.8K",
+    "is_visible_in_listings": true,
+    "requires_authenticity_check": true,
+    "is_luxury": true,
+    "is_hvf": true,
+    "path": "/brand/3036449-corteiz",
+    "url": "https://www.vinted.fr/brand/3036449-corteiz",
+    "is_favourite": false
+  },
+  "search_tracking_params": {
+    "search_correlation_id": "6db7a738-16fe-469e-b80f-1435cbd1e7ca",
+    "search_session_id": "c86d3099-16d2-44ad-a178-e828628f6172",
+    "global_search_session_id": "a7d18841-a277-4237-b91b-d0e30cccfac0"
+  },
+  "pagination": {
+    "current_page": 1,
+    "total_pages": 1,
+    "total_entries": 6,
+    "per_page": 960,
+    "time": 1742371328
+  },
+  "code": 0
+}
