@@ -16,29 +16,29 @@ async def charger_json():
         print("")
     return retourJson
 
-def moyenne (Liste) :
+async def moyenne (Liste) :
     return np.mean(Liste)
 
-def mediane (liste) :
+async def mediane (liste) :
     return np.median(liste)
 
-def ecart_type (liste) :
+async def ecart_type (liste) :
     return np.std(liste)
 
-def quartiles (liste) :
+async def quartiles (liste) :
     return np.quantile(liste,0.25, interpolation = 'midpoint'), np.quantile(liste,0.75, interpolation = 'midpoint')
 
-def effectifs (liste) :
+async def effectifs (liste) :
     modalités, effectifs = np.unique(liste, return_counts = True)
     return modalités, effectifs
 
-def frequences (liste) :
+async def frequences (liste) :
     taille = np.size(liste)
     modalités, effectifs = np.unique(liste, return_counts = True)
     frequences = np.array([e/taille for e in effectifs])
     return frequences
 
-def frequences_cumulees (liste) :
+async def frequences_cumulees (liste) :
     modalités, effectifs = np.unique(liste, return_counts = True)
     frequences = np.array([e/taille for e in effectifs])
     taille = np.size(liste)
