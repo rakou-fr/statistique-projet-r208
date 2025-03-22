@@ -64,28 +64,49 @@ async def moyenne (Liste) :
     return moyenne
 
 async def mediane (liste) :
-    return np.median(liste)
+    mediane = []
+    for x in range(len(liste)):
+        mediane.append(np.median(liste[x]))
+    return mediane
 
 async def ecart_type (liste) :
-    return np.std(liste)
+    ecart_type = []
+    for x in range(len(liste)):
+        ecart_type.append(np.std(liste[x]))
+    return ecart_type
 
 async def quartiles (liste) :
-    return np.quantile(liste,0.25, interpolation = 'midpoint'), np.quantile(liste,0.75, interpolation = 'midpoint')
+    q1 = []
+    q3 = []
+    for x in range(len(liste)):
+        q1.append(np.quantile(liste[x],0.25, interpolation = 'midpoint'))
+        q3.append(np.quantile(liste[x],0.75, interpolation = 'midpoint'))
+    return q1, q3
 
 async def effectifs (liste) :
-    modalités, effectifs = np.unique(liste, return_counts = True)
+    modalités = []
+    effectifs = []
+    for x in range(len(liste)):
+        modalités.append(np.unique(liste[x]))
+        effectifs.append(np.size(liste[x]))
     return modalités, effectifs
 
+
 async def frequences (liste) :
-    taille = np.size(liste)
-    modalités, effectifs = np.unique(liste, return_counts = True)
-    frequences = np.array([e/taille for e in effectifs])
+    frequences = []
+    for x in range(len(liste)):
+        modalités, effectifs = np.unique(liste[x], return_counts = True)
+        taille = np.size(liste[x])
+        frequences.append(np.array([e/taille for e in effectifs]))
     return frequences
 
 async def frequences_cumulees (liste) :
-    modalités, effectifs = np.unique(liste, return_counts = True)
-    frequences = np.array([e/taille for e in effectifs])
-    taille = np.size(liste)
+    frequences_cumulees = []
+    for x in range(len(liste)):
+        modalités, effectifs = np.unique(liste[x], return_counts = True)
+        taille = np.size(liste[x])
+        frequences = np.array([e/taille for e in effectifs])
+        frequences_cumulees.append(np.cumsum(frequences))
 
 
 
