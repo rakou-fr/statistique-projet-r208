@@ -64,36 +64,95 @@ async def moyenne (Liste) :
     return moyenne
 
 async def mediane (liste) :
-    return np.median(liste)
+    mediane = []
+    for x in range(len(liste)):
+        mediane.append(np.median(liste[x]))
+    return mediane
 
 async def ecart_type (liste) :
-    return np.std(liste)
+    ecart_type = []
+    for x in range(len(liste)):
+        ecart_type.append(np.std(liste[x]))
+    return ecart_type
 
 async def quartiles (liste) :
-    return np.quantile(liste,0.25, interpolation = 'midpoint'), np.quantile(liste,0.75, interpolation = 'midpoint')
+    q1 = []
+    q3 = []
+    for x in range(len(liste)):
+        q1.append(np.quantile(liste[x],0.25, method = 'midpoint'))
+        q3.append(np.quantile(liste[x],0.75, method = 'midpoint'))
+    return q1, q3
 
 async def effectifs (liste) :
-    modalités, effectifs = np.unique(liste, return_counts = True)
+    modalités = []
+    effectifs = []
+    for x in range(len(liste)):
+        modalités.append(np.unique(liste[x]))
+        effectifs.append(np.size(liste[x]))
     return modalités, effectifs
 
+
 async def frequences (liste) :
-    taille = np.size(liste)
-    modalités, effectifs = np.unique(liste, return_counts = True)
-    frequences = np.array([e/taille for e in effectifs])
+    frequences = []
+    for x in range(len(liste)):
+        modalités, effectifs = np.unique(liste[x], return_counts = True)
+        taille = np.size(liste[x])
+        frequences.append(np.array([e/taille for e in effectifs]))
     return frequences
 
 async def frequences_cumulees (liste) :
-    modalités, effectifs = np.unique(liste, return_counts = True)
-    frequences = np.array([e/taille for e in effectifs])
-    taille = np.size(liste)
+    frequences_cumulees = []
+    for x in range(len(liste)):
+        modalités, effectifs = np.unique(liste[x], return_counts = True)
+        taille = np.size(liste[x])
+        frequences = np.array([e/taille for e in effectifs])
+        frequences_cumulees.append(np.cumsum(frequences))
 
 
 
 async def main():
-    jsons = await chargerJson()  
-    prix_liste = await chargerPrix(jsons)  
-    favoris_liste = await chargerFavoris(jsons)  
+    jsons = await chargerJson()  # Charge les JSONs
+    prix_liste = await chargerPrix(jsons)  # Charge les prix à partir des JSONs
+    favoris_liste = await chargerFavoris(jsons)  # Charge les favoris à partir des JSONs
 
-    print(await moyenne(prix_liste))
+    # Affichage des résultats statistiques pour les prix
+    print("Moyenne des prix:", await moyenne(prix_liste))
+    print("Médiane des prix:", await mediane(prix_liste))
+    print("Écart-type des prix:", await ecart_type(prix_liste))
+    q1, q3 = await quartiles(prix_liste)
+    print("1er quartile des prix:", q1)
+    print("3ème quartile des prix:", q3)
+
+    # Affichage des résultats statistiques pour les favoris
+    print("Moyenne des favoris:", await moyenne(favoris_liste))
+    print("Médiane des favoris:", await mediane(favoris_liste))
+    print("Écart-type des favoris:", await ecart_type(favoris_liste))
+    q1_fav, q3_fav = await quartiles(favoris_liste)
+    print("1er quartile des favoris:", q1_fav)
+    print("3ème quartile des favoris:", q3_fav)
+
+    # Effectifs et fréquences
+    modalités_prix, effectifs_prix = await effectifs(prix_liste)
+    print("Modalités des prix:", modalités_prix)
+    print("Effectifs des prix:", effectifs_prix)
+
+    fréquences_prix = await frequences(prix_liste)
+    print("Fréquences des prix:", fréquences_prix)
+
+    # Fréquences cumulées pour les prix
+    frequences_cumulees_prix = await frequences_cumulees(prix_liste)
+    print("Fréquences cumulées des prix:", frequences_cumulees_prix)
+
+    # Affichage des résultats pour les favoris
+    modalités_fav, effectifs_fav = await effectifs(favoris_liste)
+    print("Modalités des favoris:", modalités_fav)
+    print("Effectifs des favoris:", effectifs_fav)
+
+    frequences_fav = await frequences(favoris_liste)
+    print("Fréquences des favoris:", frequences_fav)
+
+    # Fréquences cumulées pour les favoris
+    frequences_cumulees_fav = await frequences_cumulees(favoris_liste)
+    print("Fréquences cumulées des favoris:", frequences_cumulees_fav)
 
 asyncio.run(main())
