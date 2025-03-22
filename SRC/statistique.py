@@ -1,19 +1,21 @@
 import asyncio
-#asyncio.run(funct(para))
-
-async def exemple(para : str):
-    '''
-    entre : 
-    sortie :
-    texte récap
-    '''
-    code = 0
-    return code
-
-    
-    
 import matplotlib.pyplot as plt
 import os
+import json
+
+
+async def charger_json():
+    lesJsons = ["./SRC/JSON/RL.json", "./SRC/JSON/Corteiz.json", "./SRC/JSON/H&M.json"]
+    retourJson = []
+    try:
+        for x in range(len(lesJsons)):
+            with open(lesJsons[x], "r", encoding="utf8") as fichier:
+                retourJson.append(json.load(fichier))
+    except FileNotFoundError:
+        print("")
+    return retourJson
+
+print(asyncio.run(charger_json()))
 
 def plot_with_custom_theme(theme_path, data):
     """
@@ -25,11 +27,9 @@ def plot_with_custom_theme(theme_path, data):
     if not os.path.exists(theme_path):
         print(f"Le fichier de thème {theme_path} n'existe pas.")
         return
-    
-    # Charger le thème
+
     plt.style.use(theme_path)
     
-    # Création du graphique
     fig, ax = plt.subplots()
     ax.plot(data['x'], data['y'], label='Données')
     
@@ -37,15 +37,13 @@ def plot_with_custom_theme(theme_path, data):
     ax.set_ylabel('Axe Y')
     ax.set_title('Graphique avec Thème Personnalisé')
     ax.legend()
-    
-    # Affichage du graphique
+
     plt.show()
 
-# Exemple d'utilisation
 data_example = {
     'x': [1, 2, 3, 4, 5],
     'y': [10, 20, 25, 30, 40]
 }
 
 theme_file = "./SRC/rose-pine-matplotlib/themes/rose-pine.mplstyle"
-plot_with_custom_theme(theme_file, data_example)
+# plot_with_custom_theme(theme_file, data_example)
